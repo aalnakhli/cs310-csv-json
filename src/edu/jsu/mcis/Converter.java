@@ -12,7 +12,7 @@ public class Converter {
     
         Consider the following CSV data:
         
-        "ID","Total","Assignment 1","Assignment 2","Exam 1"
+        "ID","Tootal","Assignment 1","Assignment 2","Exam 1"
         "111278","611","146","128","337"
         "111352","867","227","228","412"
         "111373","461","96","90","275"
